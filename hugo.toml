@@ -21,8 +21,8 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Panjim Goa"
-intro = "Innovative Tech Visionary"
+author = "Ali Osman Alataş"
+intro = "Software Developer"
 description = "Leading the charge at [Incircle Media](https://incirclemedia.com)"
 authorimage = "headshot.png"
 dateformat = "Jan 2, 2006"
