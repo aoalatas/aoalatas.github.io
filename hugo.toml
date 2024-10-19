@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://aoalatas.github.io/"
+baseurl = "https://aoalatas.xyz"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
